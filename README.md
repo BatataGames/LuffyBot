@@ -1,2 +1,2 @@
 # LuffyBot
-comandos do meu boy
+comandos do meu bot
